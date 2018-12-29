@@ -1,5 +1,6 @@
 # Fragment-Activity-Switch-Example
-In the project, you can know how to bring/receive data to/from next fragment/activity and how to refresh view, data when you "truly" see the view(fragment/activity) . Best of all, it works when the fragment is in viewpager , slidemenu. Further, You can double backpress to leave app
+In the project, you can know how to bring/receive data to/from next fragment/activity and how to refresh view, data when you "truly" see the view(fragment/activity) . <br>
+Best of all, it works when the fragment is in viewpager , slidemenu. Further, You can double backpress to leave app
 
 
 Screenshots
